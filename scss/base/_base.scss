@@ -1,0 +1,11 @@
+// base styles
+
+a {
+	&:link, 
+	&:visited,
+	&:hover,  
+	&:active {
+	color: $base-color;
+	text-decoration: none;
+}
+} 

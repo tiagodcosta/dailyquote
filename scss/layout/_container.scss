@@ -1,0 +1,28 @@
+/* begin container div */
+.container {
+	height: 50%;
+	margin: 100px auto;
+	width: 50%;
+}
+
+/* end container div */
+
+/* begin quote div */
+.quote {
+	background-color: $background-color;
+	border-radius: 60px 20px;
+	font-family: $stack-helvetica;
+	font-style: italic;
+	font-size: 1.125em;
+	padding: 30px;
+}
+.phrase {
+	margin-bottom: 10px;
+}
+.author {
+	font-weight: bold;
+	font-style: normal;
+	margin-top: 20px; 
+}
+
+/* end quote div */
